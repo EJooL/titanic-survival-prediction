@@ -53,5 +53,3 @@ A machine learning project to predict passenger survival on the Titanic using cl
 | Random Forest | [0.8567] | [0.8156] |
 
 ---
-
-## 📁 Project Structure
